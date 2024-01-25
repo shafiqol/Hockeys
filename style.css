@@ -1,5 +1,21 @@
+body{
+    border: 2px solid ;
+}
+.programer-level{
+    width: 100%;
+}
 .junior{
     background-image: url(Images/2.png);
     background-repeat: no-repeat;
-    
+    width: 100%;
+}
+.teenager{
+    background-image: url(Images/3.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.professional{
+    background-image: url(Images/4.png);
+    background-repeat: no-repeat;
+    width: 100%;
 }
